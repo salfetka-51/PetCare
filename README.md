@@ -1,4 +1,4 @@
-# PetCare :heart_eyes_cat:
+#  :heart_eyes_cat: PetCare :heart_eyes_cat:
 > Информационная система для автоматизации работы ветеринарной клиники
 
 ---
