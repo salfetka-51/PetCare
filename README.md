@@ -3,6 +3,7 @@
 > Информационная система для автоматизации работы ветеринарной клиники
 
 ---
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d3cf7bb8-c7ba-48e8-ae6f-dc09ac4b358c" />
 
 ## О проекте
 
